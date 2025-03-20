@@ -24,10 +24,8 @@
     "test:server": "stupid-server -s"
   },
   "files": [
-    "src"
-  ],
-  "pre-push": [
-    "test"
+    "src",
+    "types"
   ],
   "author": "garrett.jensen@genesys.com",
   "license": "MIT",
